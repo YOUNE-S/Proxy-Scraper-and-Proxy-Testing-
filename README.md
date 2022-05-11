@@ -1,6 +1,6 @@
 # Proxy-Scraper-and-Proxy-Testing-
 
-## What is Proxy Scraper & Checker?
+### Scraping fresh public proxies from https://free-proxy-list.net/
 
 ## Requirements
 
